@@ -13,4 +13,4 @@ Scikit-learn
 Streamlit
 
 Live App:
-(Paste your Streamlit link here)
+https://sms-spam-detection-pexvq3hn3jqlxkgukhjtze.streamlit.app/
